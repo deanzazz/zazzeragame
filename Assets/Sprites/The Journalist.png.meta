@@ -1,0 +1,1220 @@
+fileFormatVersion: 2
+guid: c1fd949376278a840981e5723d223cbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8460967254745233627
+    second: The Journalist_0
+  - first:
+      213: 8588073930988773458
+    second: The Journalist_1
+  - first:
+      213: -2456362156921886641
+    second: The Journalist_2
+  - first:
+      213: 4982301733727547298
+    second: The Journalist_3
+  - first:
+      213: -895239723405823923
+    second: The Journalist_4
+  - first:
+      213: 6017300889453350159
+    second: The Journalist_5
+  - first:
+      213: 1003902495360475597
+    second: The Journalist_6
+  - first:
+      213: 8937691222332163628
+    second: The Journalist_7
+  - first:
+      213: -642209744441553061
+    second: The Journalist_8
+  - first:
+      213: 2444304753465987717
+    second: The Journalist_9
+  - first:
+      213: 1438261516747134677
+    second: The Journalist_10
+  - first:
+      213: 7827086968289116246
+    second: The Journalist_11
+  - first:
+      213: 2426687262819920815
+    second: The Journalist_12
+  - first:
+      213: -8825244939314779034
+    second: The Journalist_13
+  - first:
+      213: 6452816256277188559
+    second: The Journalist_14
+  - first:
+      213: -8065233231372781269
+    second: The Journalist_15
+  - first:
+      213: 6242417851601335223
+    second: The Journalist_16
+  - first:
+      213: 8846524713663748733
+    second: The Journalist_17
+  - first:
+      213: 7014149765941497605
+    second: The Journalist_18
+  - first:
+      213: 515192266225148105
+    second: The Journalist_19
+  - first:
+      213: -8736680318977322425
+    second: The Journalist_20
+  - first:
+      213: -2246764141352978821
+    second: The Journalist_21
+  - first:
+      213: 6852712404687253563
+    second: The Journalist_22
+  - first:
+      213: 9049508358946855344
+    second: The Journalist_23
+  - first:
+      213: 4393810805493763231
+    second: The Journalist_24
+  - first:
+      213: -2167783105583387406
+    second: The Journalist_25
+  - first:
+      213: -6662987169771617336
+    second: The Journalist_26
+  - first:
+      213: -599742257152946670
+    second: The Journalist_27
+  - first:
+      213: -8677667629229641739
+    second: The Journalist_28
+  - first:
+      213: 614879395510131599
+    second: The Journalist_29
+  - first:
+      213: 8943418032922313045
+    second: The Journalist_30
+  - first:
+      213: 1604422058101750053
+    second: The Journalist_31
+  - first:
+      213: -5795519028024543211
+    second: The Journalist_32
+  - first:
+      213: -6614493870552248676
+    second: The Journalist_33
+  - first:
+      213: -1114536792023069084
+    second: The Journalist_34
+  - first:
+      213: 6108788208633287214
+    second: The Journalist_35
+  - first:
+      213: -1717139892879747845
+    second: The Journalist_36
+  - first:
+      213: -3382960724192514129
+    second: The Journalist_37
+  - first:
+      213: 7470917237509589060
+    second: The Journalist_38
+  - first:
+      213: 3118524051958638354
+    second: The Journalist_39
+  - first:
+      213: 1862940145670816496
+    second: The Journalist_40
+  - first:
+      213: -8330803669139354263
+    second: The Journalist_41
+  - first:
+      213: -5412078815704083978
+    second: The Journalist_42
+  - first:
+      213: 2072061403520578503
+    second: The Journalist_43
+  - first:
+      213: -415480783632956675
+    second: The Journalist_44
+  - first:
+      213: 4784843625301828398
+    second: The Journalist_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Journalist_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1958
+        width: 99
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c2b42c1b949a80800000000000000
+      internalID: -8460967254745233627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1958
+        width: 97
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e0691db7fe2770800000000000000
+      internalID: 8588073930988773458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1958
+        width: 107
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4865f4f1af39edd0800000000000000
+      internalID: -2456362156921886641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_3
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1958
+        width: 103
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa4aa8701b42540800000000000000
+      internalID: 4982301733727547298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1958
+        width: 97
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b399f6387393f0800000000000000
+      internalID: -895239723405823923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_5
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1958
+        width: 108
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4286274fb18350800000000000000
+      internalID: 6017300889453350159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_6
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1958
+        width: 102
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e61920049eed00800000000000000
+      internalID: 1003902495360475597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1639
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c264c3310de090c70800000000000000
+      internalID: 8937691222332163628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1639
+        width: 108
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f4447d3a96617f0800000000000000
+      internalID: -642209744441553061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1639
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5829329093aebe120800000000000000
+      internalID: 2444304753465987717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1639
+        width: 99
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d3dfaa3bb5f310800000000000000
+      internalID: 1438261516747134677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_11
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1639
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65046f2c0266f9c60800000000000000
+      internalID: 7827086968289116246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_12
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba85955335da120800000000000000
+      internalID: 2426687262819920815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_13
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1639
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c24506c7e668580800000000000000
+      internalID: -8825244939314779034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1319
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf844452320d8950800000000000000
+      internalID: 6452816256277188559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1319
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2979558b19821090800000000000000
+      internalID: -8065233231372781269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1319
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3314856f581a650800000000000000
+      internalID: 6242417851601335223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_17
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1319
+        width: 109
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a54ae2b5b25ca70800000000000000
+      internalID: 8846524713663748733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_18
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1319
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0550bc04475160800000000000000
+      internalID: 7014149765941497605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_19
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1319
+        width: 99
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e063f2a4562700800000000000000
+      internalID: 515192266225148105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_20
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1319
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742d53fe98311c680800000000000000
+      internalID: -8736680318977322425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 999
+        width: 102
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f194dae3e1d0e0800000000000000
+      internalID: -2246764141352978821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1013
+        width: 102
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30fb45ff99b91f50800000000000000
+      internalID: 6852712404687253563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_23
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1013
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b994f6f7ef469d70800000000000000
+      internalID: 9049508358946855344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_24
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1013
+        width: 103
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c8abfe5a3f9fc30800000000000000
+      internalID: 4393810805493763231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_25
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1004
+        width: 103
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fceb9930cc7ae1e0800000000000000
+      internalID: -2167783105583387406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_26
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1004
+        width: 108
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c307ca98705883a0800000000000000
+      internalID: -6662987169771617336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_27
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1004
+        width: 102
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8b9d38994da7f0800000000000000
+      internalID: -599742257152946670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 679
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6cd8744bb29780800000000000000
+      internalID: -8677667629229641739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 679
+        width: 108
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b961d6d8d788800800000000000000
+      internalID: 614879395510131599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_30
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 679
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551482211576d1c70800000000000000
+      internalID: 8943418032922313045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_31
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 679
+        width: 99
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b4fa7c5d044610800000000000000
+      internalID: 1604422058101750053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_32
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 679
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187495662e229fa0800000000000000
+      internalID: -5795519028024543211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_33
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 679
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e0cbcaed89434a0800000000000000
+      internalID: -6614493870552248676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_34
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 679
+        width: 97
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e8c5651be5880f0800000000000000
+      internalID: -1114536792023069084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 358
+        width: 107
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229eaf8286c6c450800000000000000
+      internalID: 6108788208633287214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 358
+        width: 103
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4104f7d5e7b28e0800000000000000
+      internalID: -1717139892879747845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_37
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 374
+        width: 103
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf2861252f4d01d0800000000000000
+      internalID: -3382960724192514129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_38
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 374
+        width: 109
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480a1815a70ea760800000000000000
+      internalID: 7470917237509589060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_39
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 374
+        width: 103
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217a1844a19374b20800000000000000
+      internalID: 3118524051958638354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_40
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 364
+        width: 102
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f20684313e7ad910800000000000000
+      internalID: 1862940145670816496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_41
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 364
+        width: 107
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d8d6f833a036c80800000000000000
+      internalID: -8330803669139354263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_42
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 43
+        width: 102
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19a85ddfe64e4b0800000000000000
+      internalID: -5412078815704083978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_43
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 39
+        width: 99
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c334a54ed071cc10800000000000000
+      internalID: 2072061403520578503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_44
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 39
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28e88bd6aeb3af0800000000000000
+      internalID: -415480783632956675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Journalist_45
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 39
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2368ef0ded276240800000000000000
+      internalID: 4784843625301828398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
